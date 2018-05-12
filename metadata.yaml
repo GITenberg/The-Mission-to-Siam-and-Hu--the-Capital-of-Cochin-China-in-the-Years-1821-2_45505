@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43327'
     url: http://www.gutenberg.org/2009/agents/43327
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45505#The-Mission-to-Siam-and-Hu--the-Capital-of-Cochin-China-in-the-Years-1821-2
 gutenberg_issued: '2014-04-27'
 gutenberg_type: Text
 identifiers:
